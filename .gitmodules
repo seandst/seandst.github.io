@@ -1,0 +1,8 @@
+[submodule "rhat"]
+	path = rhat
+	url = https://github.com/seandst/deck.js.git
+	branch = rhat
+[submodule "webdriver-wharf"]
+	path = webdriver-wharf
+	url = https://github.com/seandst/deck.js.git
+	branch = webdriver-wharf
